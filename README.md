@@ -1,9 +1,6 @@
 # Multiple-Embedded-Browsers-in-PyQt5-With-Automation
 ![VE Project 4-1](https://github.com/Rafayjiwani/Multiple-Embedded-Browsers-in-PyQt5-With-Automation/assets/51723292/29bd0a97-4d8d-4443-9c33-5814e33ccc1b)
 Multiple Embedded Browsers in PyQt5 With Automation Supported and Sidebar Management
-### PyQt5 Embedded Browser
-
-![PyQt5 Logo](https://raw.githubusercontent.com/username/repo/master/logo.png)
 
 #### Introduction
 
