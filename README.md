@@ -33,7 +33,7 @@ To begin using PyQt5 Embedded Browser, follow these steps:
 
     ```
     cd repo
-    python main.py
+    python MEB_in_pyqt5.py
     ```
 
 #### Usage
@@ -87,7 +87,7 @@ By leveraging JavaScript automation, you can programmatically interact with web 
 
 #### Examples
 
-Explore the `main.py` script included in this repository for a comprehensive example of embedding a browser using PyQt5 and JavaScript automation. Additionally, refer to the provided documentation for detailed usage instructions and customization options.
+Explore the `MEB_in_pyqt5.py` script included in this repository for a comprehensive example of embedding a browser using PyQt5 and JavaScript automation. Additionally, refer to the provided documentation for detailed usage instructions and customization options.
 
 #### Contributions
 
